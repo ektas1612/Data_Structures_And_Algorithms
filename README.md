@@ -2,6 +2,7 @@
 
 ## Topics
 
+- [Basics](src/Basics/basics.md)
 - [Arrays](src/Arrays/Arrays.md)
 - [Linked List](src/LinkedList/LinkedList.md)
 - [Recursion](src/Recursion/Recursion.md)
@@ -11,3 +12,4 @@
 - [Trees](src/Trees/Trees.md)
 - [Graphs](src/Graphs/Graphs.md)
 - [Dynamic Programming](src/DP/DynamicProgramming.md)
+
