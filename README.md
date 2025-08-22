@@ -7,6 +7,7 @@
 |---|---------|----------|------------|----------|
 | 1 | [Palindrome Number](https://leetcode.com/problems/palindrome-number)  | LeetCode | Easy | [isPalindrome](src/Basics/isPalindrome.java)  |
 | 2 | [Find Duplicate](https://leetcode.com/problems/find-the-duplicate-number/) | LeetCode | Medium | [find_duplicate.java](Medium/find_duplicate.java) |
+| 3 | 
 ⁠
 
 ## Recursion
@@ -89,3 +90,8 @@
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode | Easy | [two_sum.java](Easy/two_sum.java) |
 | 2 | [Find Duplicate](https://leetcode.com/problems/find-the-duplicate-number/) | LeetCode | Medium | [find_duplicate.java](Medium/find_duplicate.java) |
 ⁠
+
+
+## My Profiles
+
+- [Leetcode](https://leetcode.com/u/ekta_singh1612/)
