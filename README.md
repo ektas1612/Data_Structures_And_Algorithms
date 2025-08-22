@@ -13,3 +13,4 @@
 - [Graphs](src/Graphs/Graphs.md)
 - [Dynamic Programming](src/DP/DynamicProgramming.md)
 
+[isPalindrome](src/Basics/isPalindrome.java)  
